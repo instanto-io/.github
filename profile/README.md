@@ -1,8 +1,8 @@
 # instanto.io
 
-**Portable Java, tailored for the JVM, browser, and edge** — powered by [TeaVM](https://teavm.org/).
+**Portable Java, tailored for the JVM, JavaScript, WebAssembly, and edge** — powered by [TeaVM](https://teavm.org/).
 
-Write Java once with compile-time, reflection-free code generation and deploy across JVM servers, desktop hosts, browsers, Web Workers, and Cloudflare Workers.
+Write Java once with compile-time, reflection-free code generation and deploy across JVM servers, desktop hosts, browser JavaScript and WebAssembly, Web Workers, and Cloudflare Workers.
 
 <table>
   <tr>
