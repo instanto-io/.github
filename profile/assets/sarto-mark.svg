@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sarto">
+  <defs>
+    <linearGradient id="sarto-top" x1="11" y1="18" x2="44" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58ccb4"/>
+      <stop offset="100%" stop-color="#7ae8c8"/>
+    </linearGradient>
+    <linearGradient id="sarto-mid" x1="12" y1="22" x2="52" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7ae8c8"/>
+      <stop offset="100%" stop-color="#58ccb4"/>
+    </linearGradient>
+    <linearGradient id="sarto-bot" x1="20" y1="54" x2="53" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7ae8c8"/>
+      <stop offset="100%" stop-color="#58ccb4"/>
+    </linearGradient>
+    <linearGradient id="sarto-blue-top" x1="32" y1="6" x2="53" y2="26" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3574c4"/>
+      <stop offset="100%" stop-color="#5ea3f5"/>
+    </linearGradient>
+    <linearGradient id="sarto-blue-bot" x1="11" y1="38" x2="32" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5ea3f5"/>
+      <stop offset="100%" stop-color="#3574c4"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M 32.0 5.4 L 52.4 15.6 L 52.4 28.0 L 32.0 17.8 Z" fill="url(#sarto-blue-top)"/>
+    <path d="M 32.0 58.6 L 11.6 48.4 L 11.6 36.0 L 32.0 46.2 Z" fill="url(#sarto-blue-bot)"/>
+    <path d="M 32.0 17.8 L 44.4 11.6 L 44.4 24.0 Z" fill="#3574c4" opacity="0.65"/>
+    <path d="M 32.0 46.2 L 19.6 52.4 L 19.6 40.0 Z" fill="#3574c4" opacity="0.65"/>
+    <path d="M 11.6 15.6 L 24.0 21.8 L 11.6 28.0 Z" fill="#4a90e2"/>
+    <path d="M 52.4 48.4 L 40.0 42.2 L 52.4 36.0 Z" fill="#4a90e2"/>
+    <path d="M 11.6 15.6 L 32.0 5.4 L 44.4 11.6 L 24.0 21.8 Z" fill="url(#sarto-top)"/>
+    <path d="M 52.4 48.4 L 32.0 58.6 L 19.6 52.4 L 40.0 42.2 Z" fill="url(#sarto-bot)"/>
+    <path d="M 24.00 21.80 L 52.40 36.00 L 40.00 42.20 L 37.20 40.80 L 39.71 35.79 L 37.35 34.61 L 34.84 39.62 L 32.09 38.25 L 33.61 35.21 L 31.25 34.02 L 29.73 37.07 L 26.98 35.69 L 29.66 30.32 L 27.30 29.14 L 24.62 34.51 L 21.87 33.13 L 23.39 30.09 L 21.03 28.91 L 19.51 31.95 L 16.76 30.58 L 19.26 25.57 L 16.90 24.39 L 14.40 29.40 L 11.60 28.00 Z" fill="url(#sarto-mid)"/>
+  </g>
+</svg>
